@@ -1,2 +1,3 @@
 # password-strength-analyser-and-Random-password-generator
-A very unque and timless concept of analyzing a password to create a strong and versatile password, integrating AI/Ml technology with it, which suggests better and stronger passwords. 
+Our every day lives are filled with digital interactions and its complexity. With the advent of this new tech of Artificial intelligence, craking not just a weak password but even stronger password has become like opening locks of a door. Here we present a unique and timless concept of analyzing a password to create a stronger and versatile password compatible with the new emerging technologies by integrating the concept of generative AI with it, which suggests better and stronger passwords. 
+The time has come to use the drawbacks of AI against itself. 
